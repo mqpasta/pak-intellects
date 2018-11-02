@@ -1,7 +1,7 @@
 # Intellects from Pakistan
 This project started with inspiration of a Twitter thread started by Hamza (https://twitter.com/wingsforus) listing the notable intellects from Pakistan. So, we decided to make it extensive by starting this project. 
 
-Initially, we are listing the content share by Hamza and will extned it gradually. The Twitter thread is accessible at https://twitter.com/wingsforus/status/1029402615002673154
+Initially, we are listing the content share by Hamza and will extned it gradually. The orginal Twitter thread is accessible at https://twitter.com/wingsforus/status/1029402615002673154
 
 **Eqbal Ahmad (1933-99)**
 https://en.wikipedia.org/wiki/Eqbal_Ahmad
@@ -69,7 +69,7 @@ https://en.wikipedia.org/wiki/Ardeshir_Cowasjee
 **Rubina Saigol (1940s-)**
 http://www.mei.edu/experts/rubina-saigol
 
-**Farzana Bari **
+**Farzana Bari**
 https://en.wikipedia.org/wiki/Farzana_Bari
 
 **Fouzia Saeed (1959-)**
