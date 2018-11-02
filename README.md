@@ -4,12 +4,16 @@ This project started with inspiration of a Twitter thread started by Hamza (http
 Initially, we are listing the content share by Hamza and will extned it gradually. The Twitter thread is accessible at https://twitter.com/wingsforus/status/1029402615002673154
 
 **Eqbal Ahmad (1933-99)**
+https://en.wikipedia.org/wiki/Eqbal_Ahmad
 
 **Hamza Alavi (1921-2003)**
+https://en.wikipedia.org/wiki/Hamza_Alvi
 
 **Akhtar Hameed Khan (1914-99)**
+https://en.wikipedia.org/wiki/Akhtar_Hameed_Khan
 
 **Shaista Suhrawardy Ikramullah (1915-2000)**
+https://en.wikipedia.org/wiki/Shaista_Suhrawardy_Ikramullah
 
 **Mahbub-ul-Haq (1934-98)**
 
@@ -47,11 +51,11 @@ Initially, we are listing the content share by Hamza and will extned it graduall
 
 **Rubina Saigol (1940s-)**
 
-**Farzana Bari 
+**Farzana Bari **
 
 **Fouzia Saeed (1959-)**
 
-**Akbar Zaidi
+**Akbar Zaidi**
 
 **Hanif Ramay (1930–2006)**
 
@@ -72,6 +76,3 @@ Initially, we are listing the content share by Hamza and will extned it graduall
 **Hamida Khuhro (1936-2017)**
 
 **Sibte Hassan (1916-86)**
-
-
-
