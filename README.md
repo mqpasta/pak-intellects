@@ -3,76 +3,75 @@ This project started with inspiration of a Twitter thread started by Hamza (http
 
 Initially, we are listing the content share by Hamza and will extned it gradually. The Twitter thread is accessible at https://twitter.com/wingsforus/status/1029402615002673154
 
-#Eqbal Ahmad (1933-99)
+**Eqbal Ahmad (1933-99)**
 
-#Hamza Alavi (1921-2003) 
+**Hamza Alavi (1921-2003)**
 
-#Akhtar Hameed Khan (1914-99)
+**Akhtar Hameed Khan (1914-99)**
 
-#Shaista Suhrawardy Ikramullah (1915-2000)
+**Shaista Suhrawardy Ikramullah (1915-2000)**
 
-#Mahbub-ul-Haq (1934-98)
+**Mahbub-ul-Haq (1934-98)**
 
-#Fazlur Rahman Malik (1919-88)
+**Fazlur Rahman Malik (1919-88)**
 
-#Ghulam Ahmad Pervez (1903-1985).
+**Ghulam Ahmad Pervez (1903-1985)**
 
-#Kishwar Naheed (1940-)
+**Kishwar Naheed (1940-)**
 
-#Yasmeen Lari (1941-)
+**Yasmeen Lari (1941-)**
 
-#Arif Hasan (1943-)
+**Arif Hasan (1943-)**
 
-#Mubarak Ali (1941-)
+**Mubarak Ali (1941-)**
 
-#Ahmad Hasan Dani (1920-2009)
+**Ahmad Hasan Dani (1920-2009)**
 
-#Nabi Bakhsh Khan Baloch (1917-2011)
+**Nabi Bakhsh Khan Baloch (1917-2011)**
 
-#Ishtiaq Hussain Qureshi (1903-81)
+**Ishtiaq Hussain Qureshi (1903-81)**
 
-#K.K. Aziz (1927-2009)
+**KK Aziz (1927-2009)**
 
-#Akbar S Ahmed (1943-)
+**Akbar S Ahmed (1943-)**
 
-#Nighat Said Khan (1940s-)
+**Nighat Said Khan (1940s-)**
 
-#Fahmida Hussain (1948-)
+**Fahmida Hussain (1948-)**
 
-#Ayesha Jalal (1950s-)
+**Ayesha Jalal (1950s-)**
 
-#Tariq Rahman (1949-)
+**Tariq Rahman (1949-)**
 
-#Ardeshir Cowasjee (1926-2012)
+**Ardeshir Cowasjee (1926-2012)**
 
-#Rubina Saigol (1940s-)
+**Rubina Saigol (1940s-)**
 
-#Farzana Bari 
+**Farzana Bari 
 
-#Fouzia Saeed (1959-)
+**Fouzia Saeed (1959-)**
 
-#Akbar Zaidi
+**Akbar Zaidi
 
-#Hanif Ramay (1930–2006)
+**Hanif Ramay (1930–2006)**
 
-#Muhammad Zafarullah Khan (1892-1985)
+**Muhammad Zafarullah Khan (1892-1985)**
 
-#Feroz Ahmad (1940-97)
+**Feroz Ahmad (1940-97)**
 
-#Tariq Ali (1943-)
+**Tariq Ali (1943-)**
 
-#Nadeem F. Paracha (1967-)
+**Nadeem F Paracha (1967-)**
 
-#Abul A'la Maududi (1903-79)
+**Abul A'la Maududi (1903-79)**
 
-#Mahmud Hussain (1907-75)
+**Mahmud Hussain (1907-75)**
 
-#Khan Roshan Khan (1914-88)
+**Khan Roshan Khan (1914-88)**
 
-#Hamida Khuhro (1936-2017)
+**Hamida Khuhro (1936-2017)**
 
-#Sibte Hassan (1916-86)
-
+**Sibte Hassan (1916-86)**
 
 
 
